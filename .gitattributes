@@ -1,0 +1,5 @@
+DESPESA_INDIVIDUAL.dta filter=lfs diff=lfs merge=lfs -text
+rendimentos_morador_codigos.dta filter=lfs diff=lfs merge=lfs -text
+base.dta filter=lfs diff=lfs merge=lfs -text
+despesas_padrao_locinf.dta filter=lfs diff=lfs merge=lfs -text
+despesas_padrao_aqm.dta filter=lfs diff=lfs merge=lfs -text
